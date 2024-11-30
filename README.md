@@ -50,7 +50,7 @@ Handles the interrupt setup, button state reading, and LED updates based on the 
 - Initializes button GPIOs.
 - Configures interrupts for button presses.
 
-### **LEDs Module (`leds.c` and `leds.h`)**
-- Initializes LED GPIOs.
-- Provides functions to set LED state or toggle LEDs.
+## 🔗 Quick Links
+
+- [📁 Back to Nordic-Semiconductor Projects](https://github.com/Amid68/Nordic-Semiconductor/blob/main/README.md)
 
