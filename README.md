@@ -52,5 +52,5 @@ Handles the interrupt setup, button state reading, and LED updates based on the 
 
 ## 🔗 Quick Links
 
-- [📁 Back to Nordic-Semiconductor Projects](https://github.com/Amid68/Nordic-Semiconductor/blob/main/README.md)
+- [📁 Back to Nordic-Semiconductor Projects](https://github.com/Amid68/Amid68/blob/main/projects/embedded_projects.md#nordic-semiconductor-nrf52840)
 
